@@ -1,0 +1,14 @@
+{
+    "name": "peip/common-contract",
+    "description": "Interfaces for the PEIP\\Common component",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Timo Michna",
+            "email": "timomichna@yahoo.de"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
