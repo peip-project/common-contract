@@ -18,5 +18,4 @@ interface HasNameInterface
      * @return string
      */
     public function getName() : string ;
-
 }
