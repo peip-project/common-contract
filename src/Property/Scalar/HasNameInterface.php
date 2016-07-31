@@ -12,11 +12,11 @@
 
 namespace PEIP\Common\Contract\Property\Scalar;
 
-
 interface HasNameInterface
 {
     /**
      * @return string
      */
     public function getName() : string ;
+
 }
